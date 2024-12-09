@@ -111,9 +111,23 @@ Z
 ACCEPTED
 ```
 
+
+
+
+
+
 ## Vídeos
 
 ### Questão 1:
 https://youtu.be/q4JBQj2dhkU?si=UOZQFzVo4zuU7VJN
 ### Questão 2:
 https://youtube.com/shorts/PbNcrc4dtgE?si=gSVAChCumpqbTVjp
+
+
+
+## Alunos:
+###### EDUARDO DE CARVALHO COUTO
+###### RYAN RAMON DA SILVA BEZERRA
+###### ATELSON CLEMENTINO JUNIOR
+###### JOAO VITOR FERNANDES DOS SANTOS
+###### CIRO ASSUERO CABRAL DA SILVA MENEZES
