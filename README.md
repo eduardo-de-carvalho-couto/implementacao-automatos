@@ -42,10 +42,10 @@ Digite os estados de aceitação separados por espaço: q2
 
 ### Output:
 ```bash
-Digite uma cadeia para testar (ou 'sair' para encerrar): 011
-A cadeia '011' foi aceita pelo AFD.
-Digite uma cadeia para testar (ou 'sair' para encerrar): 0011
-A cadeia '0011' foi rejeitada pelo AFD.
+Digite uma cadeia para testar (ou 'sair' para encerrar): 0111
+A cadeia '0111' foi rejeitada pelo AFD.
+Digite uma cadeia para testar (ou 'sair' para encerrar): 0101
+A cadeia '0101' foi aceita pelo AFD.
 
 ```
 
