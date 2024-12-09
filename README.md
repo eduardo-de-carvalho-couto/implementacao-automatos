@@ -26,6 +26,7 @@
 
 - Para cada cadeia fornecida, o programa imprime se a cadeia é **aceita** ou **rejeitada** pelo AFD.
 
+### Input
 ```bash
 Digite os estados separados por espaço (ex: q0 q1 q2): q0 q1 q2
 Digite os símbolos do alfabeto separados por espaço (ex: 0 1): 0 1
@@ -78,6 +79,9 @@ A cadeia '0011' foi rejeitada pelo AFD.
 
 - Para cada cadeia fornecida, o programa imprime se a cadeia foi **aceita** ou **rejeitada** pelo AP, e também imprime o estado da pilha durante o processamento da cadeia.
 
+## Representando o seguinte autômoto:
+![Captura de tela de 2024-12-09 17-55-31](https://github.com/user-attachments/assets/42049fa7-ea8c-4801-902d-88566fb212fc)
+### input
 ```bash
 2
 4 6
@@ -88,6 +92,7 @@ A cadeia '0011' foi rejeitada pelo AFD.
 2 2 b A ~
 2 3 ~ Z Z
 abb
+
 ```
 
 ### Output: 
